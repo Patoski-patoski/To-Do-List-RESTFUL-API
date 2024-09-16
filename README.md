@@ -19,8 +19,7 @@ The API is secured using basic HTTP authentication and is designed with modern F
     - [Requirements](#requirements)
     - [Steps](#steps)
   - [Usage](#usage)
-  - [API Endpoints](#api-endpoints)
-    - [Get ALL Tasks](#get-all-tasks)
+  - [Setup Environment Variables](#setup-environment-variables)
     - [Get a Single Task](#get-a-single-task)
     - [Create a New Task](#create-a-new-task)
     - [Update an Existing Task](#update-an-existing-task)
@@ -78,6 +77,25 @@ Example of getting all tasks using `curl`:
 ```bash
 curl -u username:password http://127.0.0.1:5000/todo/api/v1.0/tasks
 ```
+
+## Setup Environment Variables
+
+To run this project, you will need to set up the necessary environment variables.
+
+1. Copy the `.env.example` file to `.env`:
+
+   ```bash
+   cp .env.example .env
+   ```
+
+2. Open the .env file and add your desired username and password:
+
+   ```plaintext
+        TODO_USERNAME=your_username
+        TODO_PASSWORD=your_password
+    ```
+
+3. Save the file, and the app will load these variables when it runs.
 
 ## API Endpoints
 
