@@ -1,8 +1,12 @@
 # Todo List API
 
-A simple, strictly RESTful Todo List API built using Flask. This API allows users to manage a list of tasks with operations such as retrieving tasks, adding new tasks, updating existing tasks, and deleting tasks.
+A simple, strictly RESTful Todo List API built using Flask. This API allows
+users to manage a list of tasks with operations such as retrieving tasks,
+adding new tasks, updating existing tasks, and deleting tasks.
 
-The API is secured using basic HTTP authentication and is designed with modern Flask practices, making it easy to extend and integrate with a proper database.
+The API is secured using basic HTTP authentication and is designed with
+modern Flask practices, making it easy to extend and integrate with a proper
+database.
 
 ## Features
 
@@ -71,7 +75,9 @@ The app will now be running on `http://127.0.0.1:5000/`.
 
 ## Usage
 
-You can interact with the API using tools like `curl`, [Postman](https://www.postman.com/), or your web browser. (i'll recommend getting started with PostMan 🙂 but for this README, we will use curl)
+You can interact with the API using tools like
+`curl`,[Postman](https://www.postman.com/), or your web browser.
+(i'll recommend getting started with PostMan 🙂 for this README, we use curl)
 
 Example of getting all tasks using `curl`:
 
@@ -151,8 +157,8 @@ To run this project, you will need to set up the necessary environment variables
      "new task!":{
         "id": 3,
         "title": "Attend team meeting",
-        "description": "Join the weekly team meeting to discuss current projects
-        and updates.",
+        "description": "Join the weekly team meeting to discuss current
+        projects and updates.",
         "done": false
     }
 }
@@ -232,8 +238,10 @@ for details.
 3. **Features**: Key features that stand out in the project.
 4. **Installation**: Step-by-step instructions to install and run the project.
 5. **Usage**: An example of how to use the API (with curl or Postman).
-6. **API Endpoints**: A detailed explanation of all the endpoints, the HTTP methods they use, the request format, and response format.
-7. **Authentication**: Information on how to authenticate with the API (HTTP Basic Authentication in this case).
+6. **API Endpoints**: A detailed explanation of all the endpoints, the HTTP
+   methods they use, the request format, and response format.
+7. **Authentication**: Information on how to authenticate with the API
+   (HTTP Basic Authentication in this case).
 8. **Running Tests**: Instructions for running tests.
 9. **Future Improvements**: Areas of improvement
 10. **License**: Project License
