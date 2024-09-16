@@ -122,7 +122,7 @@ To run this project, you will need to set up the necessary environment variables
             "description": "Create a new GitHub account, push your first repository.",
             "done": false
         }
-    ...
+    
     ]
 }
 ```
@@ -157,8 +157,7 @@ To run this project, you will need to set up the necessary environment variables
      "new task!":{
         "id": 3,
         "title": "Attend team meeting",
-        "description": "Join the weekly team meeting to discuss current
-        projects and updates.",
+        "description": "Join the weekly team meeting to discuss current projects and updates.",
         "done": false
     }
 }
