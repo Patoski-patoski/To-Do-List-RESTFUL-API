@@ -46,7 +46,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/todo-api.git
+    git clone https://github.com/Patoski-patoski/To-Do-List-RESTFUL-API.git
     cd todo-api
     ```
 
@@ -73,7 +73,7 @@ The app will now be running on `http://127.0.0.1:5000/`.
 
 ## Usage
 
-You can interact with the API using tools like `curl`, [Postman](https://www.postman.com/), or your web browser. (i'll recommend getting started with PostMan 🙂)
+You can interact with the API using tools like `curl`, [Postman](https://www.postman.com/), or your web browser. (i'll recommend getting started with PostMan 🙂 but for this README, we will use curl)
 
 Example of getting all tasks using `curl`:
 
