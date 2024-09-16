@@ -6,10 +6,8 @@ The API is secured using basic HTTP authentication and is designed with modern F
 
 ## Features
 
-- Secure HTTP Basic Authentication
+- HTTP Basic Authentication
 - RESTful API for managing tasks (CRUD operations)
-- Easily extendable to use a database like SQLite, PostgreSQL, or MySQL
-- Error handling and validation for incoming requests
 - Structured and readable codebase
 
 ## Table of Contents
