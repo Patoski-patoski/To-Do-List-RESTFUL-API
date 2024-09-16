@@ -151,7 +151,8 @@ To run this project, you will need to set up the necessary environment variables
      "new task!":{
         "id": 3,
         "title": "Attend team meeting",
-        "description": "Join the weekly team meeting to discuss current projects and updates.",
+        "description": "Join the weekly team meeting to discuss current projects
+        and updates.",
         "done": false
     }
 }
@@ -190,7 +191,8 @@ To run this project, you will need to set up the necessary environment variables
 
 ## Authentication
 
-This API uses HTTP Basic Authentication for security. You will need to provide your username and password when making API requests.
+This API uses HTTP Basic Authentication for security. You will need to provide
+your username and password when making API requests.
 
 Username: `username`
 Password: `secretpassword`
@@ -211,14 +213,15 @@ To run the test suite (if you have added tests), execute the following command:
 ## Future Improvements
 
 - May Implement token-based authentication (e.g., JWT) for better security.
-- May Integrate a database (e.g., SQLite, PostgreSQL) using SQLAlchemy for persistence.
+- May Integrate a database (e.g., SQLite, PostgreSQL) using SQLAlchemy
+  for persistence.
 - May Add pagination support to the GET /tasks endpoint.
 - May Implement a web frontend using a framework like React or Vue.js.
   
 ## License
 
-This project is licensed under the MIT License - see the [License]('https://github.com/Patoski-patoski/To-Do-List-RESTFUL-API?tab=MIT-1-ov-file')
- file for details.
+This project is licensed under the MIT License - see the[MIT License](https://github.com/Patoski-patoski/To-Do-List-RESTFUL-API/blob/main/LICENSE) file
+for details.
 
 ## Summary
 
