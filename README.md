@@ -44,7 +44,7 @@ Make sure you have the following installed on your machine:
 
     ```bash
     git clone https://github.com/Patoski-patoski/To-Do-List-RESTFUL-API.git
-    cd todo-api
+    cd To-Do-List-RESTFUL-API
     ```
 
 2. Create and activate a virtual environment:
@@ -191,12 +191,12 @@ To run this project, you will need to set up the necessary environment variables
 
 This API uses HTTP Basic Authentication for security. You will need to provide your username and password when making API requests.
 
-Username: `patrick`
-Password: `HelloPatrick`
+Username: `username`
+Password: `secretpassword`
 You can provide authentication details using tools like curl:
 
 ```bash
-    curl -u patrick:HelloPatrick http://127.0.0.1:5000/todo/api/v1.0/tasks
+    curl -u username:secretpassword http://127.0.0.1:5000/todo/api/v1.0/tasks
 ```
 
 ## Running Tests
