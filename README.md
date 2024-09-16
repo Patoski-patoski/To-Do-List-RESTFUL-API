@@ -226,7 +226,7 @@ To run the test suite (if you have added tests), execute the following command:
   
 ## License
 
-This project is licensed under the MIT License - see the[MIT License](https://github.com/Patoski-patoski/To-Do-List-RESTFUL-API/blob/main/LICENSE) file
+This project is licensed under the MIT License - see the [MIT License](https://github.com/Patoski-patoski/To-Do-List-RESTFUL-API/blob/main/LICENSE) file
 for details.
 
 ## Summary
