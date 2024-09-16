@@ -28,6 +28,7 @@ The API is secured using basic HTTP authentication and is designed with modern F
   - [Running Tests](#running-tests)
   - [Future Improvements](#future-improvements)
   - [License](#license)
+  - [Summary](#summary)
 
 ## Installation
 
@@ -216,7 +217,10 @@ To run the test suite (if you have added tests), execute the following command:
   
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE]('https://github.com/Patoski-patoski/To-Do-List-RESTFUL-API/blob/main/LICENSE')
+ file for details.
+
+## Summary
 
 ```markdown
 
