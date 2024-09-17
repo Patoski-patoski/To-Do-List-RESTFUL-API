@@ -2,6 +2,6 @@
 
 mysql_host: 'Dummy'
 mysql_password: 'Dummy'
-mysql_user: 'Dummuser'
+mysql_user: 'Dummuser1'
 mysql_db: "todo_db"
 mysql_port: "3721"
