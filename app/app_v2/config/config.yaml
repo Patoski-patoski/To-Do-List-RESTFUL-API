@@ -1,0 +1,7 @@
+#app/app_v2/config/config.yaml module
+
+mysql_host: 'Dummy'
+mysql_password: 'Dummy'
+mysql_user: 'Dummuser'
+mysql_db: "todo_db"
+mysql_port: "3721"
